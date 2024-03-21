@@ -27,3 +27,4 @@ dist-ssr
 *.json
 vite.config.ts
 .eslintrc.cjs
+src/vite-env.d.ts
