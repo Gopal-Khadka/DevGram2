@@ -23,7 +23,7 @@ dist-ssr
 *.sw?
 
 # Config files
-*.json
-vite.config.ts
+# *.json
+# vite.config.ts
 .eslintrc.cjs
 src/vite-env.d.ts
