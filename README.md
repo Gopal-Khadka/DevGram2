@@ -1,7 +1,7 @@
 # DevGram 🚀
 ## Social media for developers by developers
 
-DevGram is a social media platform designed exclusively for developers. It provides a space for developers to connect, share their coding journey, and collaborate on projects. Built using React, Bootstrap, Node.js, and MySQL, DevGram offers a seamless user experience with features tailored for the developer community.
+DevGram is a social media platform designed exclusively for developers. It provides a space for developers to connect, share their coding journey, and collaborate on projects. Built using React, Bootstrap, Node.js, and MongoDB, DevGram offers a seamless user experience with features tailored for the developer community.
 
 ## Features ✨
 
@@ -16,7 +16,7 @@ DevGram is a social media platform designed exclusively for developers. It provi
 ## To-Do 📝
 
 - [ ] Implement user authentication using Google and GitHub APIs.
-- [ ] Set up the database schema and establish a connection between the Node.js backend and MySQL.
+- [ ] Set up the database schema and establish a connection between the Node.js backend and MongoDB.
 - [ ] Design and develop the user interface using React and Bootstrap, ensuring responsiveness across devices.
 - [ ] Create the image sharing functionality, including the ability to upload, view, and comment on images.
 - [ ] Implement the like and comment features to enable user engagement.
